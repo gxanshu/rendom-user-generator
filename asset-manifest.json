@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rendom-user-generator/static/css/main.8e4be98b.chunk.css",
+    "main.js": "/rendom-user-generator/static/js/main.44a93e32.chunk.js",
+    "main.js.map": "/rendom-user-generator/static/js/main.44a93e32.chunk.js.map",
+    "runtime-main.js": "/rendom-user-generator/static/js/runtime-main.7384c58b.js",
+    "runtime-main.js.map": "/rendom-user-generator/static/js/runtime-main.7384c58b.js.map",
+    "static/js/2.6ba995e3.chunk.js": "/rendom-user-generator/static/js/2.6ba995e3.chunk.js",
+    "static/js/2.6ba995e3.chunk.js.map": "/rendom-user-generator/static/js/2.6ba995e3.chunk.js.map",
+    "index.html": "/rendom-user-generator/index.html",
+    "static/css/main.8e4be98b.chunk.css.map": "/rendom-user-generator/static/css/main.8e4be98b.chunk.css.map",
+    "static/js/2.6ba995e3.chunk.js.LICENSE.txt": "/rendom-user-generator/static/js/2.6ba995e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7384c58b.js",
+    "static/js/2.6ba995e3.chunk.js",
+    "static/css/main.8e4be98b.chunk.css",
+    "static/js/main.44a93e32.chunk.js"
+  ]
+}
